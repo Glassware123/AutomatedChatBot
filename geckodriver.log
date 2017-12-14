@@ -1,0 +1,1396 @@
+1504451979862	geckodriver	INFO	geckodriver 0.18.0
+1504451979869	geckodriver	INFO	Listening on 127.0.0.1:51587
+1504451980982	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504451982116	Marionette	INFO	Enabled via --marionette
+1504451985638	Marionette	INFO	Listening on port 39543
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504451985705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504451985744	Marionette	DEBUG	loaded listener.js
+1504451985783	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504451986254	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504451986255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504451986898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504451994365	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+1504452375964	geckodriver	INFO	geckodriver 0.18.0
+1504452375968	geckodriver	INFO	Listening on 127.0.0.1:33697
+1504452377065	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504452378056	Marionette	INFO	Enabled via --marionette
+1504452380704	Marionette	INFO	Listening on port 33071
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504452380814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504452380872	Marionette	DEBUG	loaded listener.js
+1504452380897	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504452381535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504452381535	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504452381996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504452389695	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504452431098	geckodriver	INFO	geckodriver 0.18.0
+1504452431103	geckodriver	INFO	Listening on 127.0.0.1:49409
+1504452432190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504452433093	Marionette	INFO	Enabled via --marionette
+1504452435783	Marionette	INFO	Listening on port 33539
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504452435853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504452435898	Marionette	DEBUG	loaded listener.js
+1504452435996	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504452436628	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504452436629	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504452437283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504452444189	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+
+(firefox:4398): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+1504452825611	geckodriver	INFO	geckodriver 0.18.0
+1504452825615	geckodriver	INFO	Listening on 127.0.0.1:39247
+1504452826703	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504452827684	Marionette	INFO	Enabled via --marionette
+1504452830422	Marionette	INFO	Listening on port 41455
+1504452830557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504452830620	Marionette	DEBUG	loaded listener.js
+1504452830650	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504452831160	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504452831161	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504452831521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504452839637	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+1504452929933	geckodriver	INFO	geckodriver 0.18.0
+1504452929938	geckodriver	INFO	Listening on 127.0.0.1:42395
+1504452931032	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504452931943	Marionette	INFO	Enabled via --marionette
+1504452934912	Marionette	INFO	Listening on port 45507
+1504452934971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504452935028	Marionette	DEBUG	loaded listener.js
+1504452935050	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504452935564	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504452935565	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504452936029	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504452943848	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+[Parent 5302] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504453177644	geckodriver	INFO	geckodriver 0.18.0
+1504453177649	geckodriver	INFO	Listening on 127.0.0.1:56213
+1504453178740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504453179725	Marionette	INFO	Enabled via --marionette
+1504453182531	Marionette	INFO	Listening on port 37571
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504453182572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504453182618	Marionette	DEBUG	loaded listener.js
+1504453182646	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504453183441	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504453183441	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504453183868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504453191948	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504453249387	Marionette	DEBUG	loaded listener.js
+1504453255687	Marionette	DEBUG	loaded listener.js
+1504453258257	Marionette	DEBUG	loaded listener.js
+1504453263386	Marionette	DEBUG	loaded listener.js
+1504453267481	Marionette	DEBUG	loaded listener.js
+1504453364738	geckodriver	INFO	geckodriver 0.18.0
+1504453364744	geckodriver	INFO	Listening on 127.0.0.1:42265
+1504453365835	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504453366704	Marionette	INFO	Enabled via --marionette
+1504453369465	Marionette	INFO	Listening on port 34735
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504453369553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504453369597	Marionette	DEBUG	loaded listener.js
+1504453369627	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504453370634	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504453370635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504453371163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504453379933	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+JavaScript error: https://qsbr.ec.quoracdn.net/-3-chunk.web.main.js.out-33-414286dcd0d5405e.webpack, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 91: TypeError: this.tabTarget is null
+JavaScript error: https://qsbr.ec.quoracdn.net/-3-chunk.web.main.js.out-33-414286dcd0d5405e.webpack, line 11: NS_ERROR_NOT_INITIALIZED: 
+1504453757456	geckodriver	INFO	geckodriver 0.18.0
+1504453757461	geckodriver	INFO	Listening on 127.0.0.1:49873
+1504453758551	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504453759436	Marionette	INFO	Enabled via --marionette
+1504453762065	Marionette	INFO	Listening on port 41001
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504453762180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504453762235	Marionette	DEBUG	loaded listener.js
+1504453762260	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504453762994	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504453762995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504453763426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504453770522	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504453796123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 7022] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 7022] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 7022] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 7022] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1504453979525	geckodriver	INFO	geckodriver 0.18.0
+1504453979530	geckodriver	INFO	Listening on 127.0.0.1:45411
+1504453980622	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504453981491	Marionette	INFO	Enabled via --marionette
+1504453984325	Marionette	INFO	Listening on port 40273
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504453984446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504453984496	Marionette	DEBUG	loaded listener.js
+1504453984524	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504453985281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504453985282	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504453985958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504453992818	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504454018388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+1504454280297	geckodriver	INFO	geckodriver 0.18.0
+1504454280302	geckodriver	INFO	Listening on 127.0.0.1:53465
+1504454281393	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504454282292	Marionette	INFO	Enabled via --marionette
+1504454285016	Marionette	INFO	Listening on port 36145
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504454285117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504454285169	Marionette	DEBUG	loaded listener.js
+1504454285256	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504454290266	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504454290267	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504454290614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504454294881	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504454320454	geckodriver	INFO	geckodriver 0.18.0
+1504454320460	geckodriver	INFO	Listening on 127.0.0.1:41637
+1504454321553	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504454322612	Marionette	INFO	Enabled via --marionette
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1504454325951	Marionette	INFO	Listening on port 35349
+1504454325986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504454326030	Marionette	DEBUG	loaded listener.js
+1504454326062	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504454326571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504454326572	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504454326993	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504454334615	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504454345116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+1504454629846	geckodriver	INFO	geckodriver 0.18.0
+1504454629851	geckodriver	INFO	Listening on 127.0.0.1:35299
+1504454630943	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504454631939	Marionette	INFO	Enabled via --marionette
+1504454634583	Marionette	INFO	Listening on port 38393
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504454634697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504454634750	Marionette	DEBUG	loaded listener.js
+1504454634783	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504454635346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504454635347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504454636004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504454649569	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504454660206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 8971] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504454692581	geckodriver	INFO	geckodriver 0.18.0
+1504454692587	geckodriver	INFO	Listening on 127.0.0.1:56171
+1504454693675	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504454694496	Marionette	INFO	Enabled via --marionette
+1504454697088	Marionette	INFO	Listening on port 39897
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504454697206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504454697265	Marionette	DEBUG	loaded listener.js
+1504454697295	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504454697949	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504454697950	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504454698651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504454710590	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504454721176	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9434] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504454982133	Marionette	DEBUG	loaded listener.js
+[Parent 9434] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504455186357	geckodriver	INFO	geckodriver 0.18.0
+1504455186362	geckodriver	INFO	Listening on 127.0.0.1:57081
+1504455187448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504455189272	Marionette	INFO	Enabled via --marionette
+1504455192177	Marionette	INFO	Listening on port 36923
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504455192309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504455192369	Marionette	DEBUG	loaded listener.js
+1504455192404	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504455192979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504455192979	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504455193661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504455206288	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504455216589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504455238630	Marionette	DEBUG	loaded listener.js
+1504455418992	geckodriver	INFO	geckodriver 0.18.0
+1504455419000	geckodriver	INFO	Listening on 127.0.0.1:35177
+1504455420092	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504455421046	Marionette	INFO	Enabled via --marionette
+1504455423762	Marionette	INFO	Listening on port 43705
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504455423814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504455423859	Marionette	DEBUG	loaded listener.js
+1504455423953	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504455424610	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504455424611	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504455425296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504455432143	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504455442703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504455503374	Marionette	DEBUG	loaded listener.js
+1504455585846	geckodriver	INFO	geckodriver 0.18.0
+1504455585854	geckodriver	INFO	Listening on 127.0.0.1:59115
+1504455585950	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504455587630	Marionette	INFO	Enabled via --marionette
+1504455590554	Marionette	INFO	Listening on port 37641
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504455590758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504455590815	Marionette	DEBUG	loaded listener.js
+1504455590843	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504455591481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504455591482	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504455592187	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504455605016	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504455615710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1504455762422	geckodriver	INFO	geckodriver 0.18.0
+1504455762427	geckodriver	INFO	Listening on 127.0.0.1:46141
+1504455763583	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504455765074	Marionette	INFO	Enabled via --marionette
+1504455768425	Marionette	INFO	Listening on port 34627
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504455768518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504455768563	Marionette	DEBUG	loaded listener.js
+1504455768627	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504455769515	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504455769515	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504455770353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504455783260	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504455793852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+1504455899232	Marionette	DEBUG	loaded listener.js
+1504456079151	Marionette	DEBUG	loaded listener.js
+1504456169590	geckodriver	INFO	geckodriver 0.18.0
+1504456169596	geckodriver	INFO	Listening on 127.0.0.1:58017
+1504456170685	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504456171743	Marionette	INFO	Enabled via --marionette
+1504456174982	Marionette	INFO	Listening on port 37821
+1504456175029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504456175081	Marionette	DEBUG	loaded listener.js
+1504456175108	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504456175650	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504456175651	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504456176234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504456188787	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504456199348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504456238210	Marionette	DEBUG	loaded listener.js
+1504456350371	geckodriver	INFO	geckodriver 0.18.0
+1504456350377	geckodriver	INFO	Listening on 127.0.0.1:35391
+1504456351469	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504456352341	Marionette	INFO	Enabled via --marionette
+1504456355260	Marionette	INFO	Listening on port 46455
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504456355298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504456355346	Marionette	DEBUG	loaded listener.js
+1504456355377	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504456356105	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504456356105	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504456356947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504456368488	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504456379119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504456470313	geckodriver	INFO	geckodriver 0.18.0
+1504456470319	geckodriver	INFO	Listening on 127.0.0.1:60307
+1504456471408	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504456472320	Marionette	INFO	Enabled via --marionette
+1504456474947	Marionette	INFO	Listening on port 44019
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504456475063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504456475120	Marionette	DEBUG	loaded listener.js
+1504456475152	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504456476021	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504456476022	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504456476806	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504456485449	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504456496068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 13567] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504456553290	geckodriver	INFO	geckodriver 0.18.0
+1504456553299	geckodriver	INFO	Listening on 127.0.0.1:34829
+1504456554389	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504456556442	Marionette	INFO	Enabled via --marionette
+1504456559251	Marionette	INFO	Listening on port 38671
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504456559317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504456559368	Marionette	DEBUG	loaded listener.js
+1504456559401	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504456560003	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504456560003	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504456560597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504456572616	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504456578208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504456632537	geckodriver	INFO	geckodriver 0.18.0
+1504456632542	geckodriver	INFO	Listening on 127.0.0.1:57779
+1504456633630	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504456634509	Marionette	INFO	Enabled via --marionette
+1504456637203	Marionette	INFO	Listening on port 42571
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504456637322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504456637382	Marionette	DEBUG	loaded listener.js
+1504456637413	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504456637983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504456637984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504456638602	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504456639112	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+JavaScript error: https://web.whatsapp.com/progress.ff2eb7b90b39f18f9d02a2a811d62aa6.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1504456653477	geckodriver	INFO	geckodriver 0.18.0
+1504456653482	geckodriver	INFO	Listening on 127.0.0.1:37149
+1504456654576	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504456655544	Marionette	INFO	Enabled via --marionette
+1504456658129	Marionette	INFO	Listening on port 45783
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504456658242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504456658294	Marionette	DEBUG	loaded listener.js
+1504456658325	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504456659882	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504456659882	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504456660650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504456674402	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504456680007	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504457053960	geckodriver	INFO	geckodriver 0.18.0
+1504457053963	geckodriver	INFO	Listening on 127.0.0.1:35451
+1504457055054	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504457056111	Marionette	INFO	Enabled via --marionette
+1504457058931	Marionette	INFO	Listening on port 43661
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504457058977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504457059023	Marionette	DEBUG	loaded listener.js
+1504457059053	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504457059676	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504457059677	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504457059983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504457063993	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504457141518	geckodriver	INFO	geckodriver 0.18.0
+1504457141523	geckodriver	INFO	Listening on 127.0.0.1:50989
+1504457142614	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504457143497	Marionette	INFO	Enabled via --marionette
+1504457146286	Marionette	INFO	Listening on port 32911
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504457146357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504457146403	Marionette	DEBUG	loaded listener.js
+1504457146435	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504457146977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504457146977	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504457147635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504457151348	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+[Child 15244] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15244] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15244] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+JavaScript error: resource://shield-recipe-client/lib/EventEmitter.jsm, line 30: TypeError: log is undefined
+1504457245041	geckodriver	INFO	geckodriver 0.18.0
+1504457245045	geckodriver	INFO	Listening on 127.0.0.1:60865
+1504457246134	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504457246993	Marionette	INFO	Enabled via --marionette
+1504457249919	Marionette	INFO	Listening on port 35321
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504457249955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504457249996	Marionette	DEBUG	loaded listener.js
+1504457250024	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504457250727	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504457250727	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504457251217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504457262091	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504457267648	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504457383493	geckodriver	INFO	geckodriver 0.18.0
+1504457383498	geckodriver	INFO	Listening on 127.0.0.1:58985
+1504457384589	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504457385572	Marionette	INFO	Enabled via --marionette
+1504457388218	Marionette	INFO	Listening on port 37653
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504457388333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504457388389	Marionette	DEBUG	loaded listener.js
+1504457388421	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504457389055	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504457389055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504457389462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504457393271	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504457402289	geckodriver	INFO	geckodriver 0.18.0
+1504457402294	geckodriver	INFO	Listening on 127.0.0.1:47333
+1504457403386	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504457404253	Marionette	INFO	Enabled via --marionette
+1504457406820	Marionette	INFO	Listening on port 37695
+1504457406983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504457407044	Marionette	DEBUG	loaded listener.js
+1504457407073	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504457407580	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504457407581	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504457408242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504457416322	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504457421911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504457559671	geckodriver	INFO	geckodriver 0.18.0
+1504457559677	geckodriver	INFO	Listening on 127.0.0.1:55543
+1504457560767	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504457561636	Marionette	INFO	Enabled via --marionette
+1504457564450	Marionette	INFO	Listening on port 45117
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504457564488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504457564537	Marionette	DEBUG	loaded listener.js
+1504457564563	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504457565135	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504457565135	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504457565513	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504457570577	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504457576463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504458032221	geckodriver	INFO	geckodriver 0.18.0
+1504458032227	geckodriver	INFO	Listening on 127.0.0.1:41701
+1504458033320	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504458039860	Marionette	INFO	Enabled via --marionette
+1504458042559	Marionette	INFO	Listening on port 43111
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504458042668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504458042720	Marionette	DEBUG	loaded listener.js
+1504458042747	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504458043275	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504458043276	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504458043627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504458054369	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504458195049	geckodriver	INFO	geckodriver 0.18.0
+1504458195054	geckodriver	INFO	Listening on 127.0.0.1:52523
+1504458196147	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504458197033	Marionette	INFO	Enabled via --marionette
+1504458199638	Marionette	INFO	Listening on port 44065
+1504458199708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504458199753	Marionette	DEBUG	loaded listener.js
+1504458199850	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504458200493	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504458200494	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504458200862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504458211605	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504458217205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504458261304	geckodriver	INFO	geckodriver 0.18.0
+1504458261310	geckodriver	INFO	Listening on 127.0.0.1:44973
+1504458262393	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504458263274	Marionette	INFO	Enabled via --marionette
+1504458266153	Marionette	INFO	Listening on port 46165
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504458266216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504458266259	Marionette	DEBUG	loaded listener.js
+1504458266293	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504458266862	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504458266863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504458267335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504458276677	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504458282261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 17175] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1504473081987	geckodriver	INFO	geckodriver 0.18.0
+1504473082187	geckodriver	INFO	Listening on 127.0.0.1:49363
+1504473085099	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504473103518	Marionette	INFO	Enabled via --marionette
+1504473342201	geckodriver	INFO	geckodriver 0.18.0
+1504473342206	geckodriver	INFO	Listening on 127.0.0.1:39513
+1504473343298	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504473344348	Marionette	INFO	Enabled via --marionette
+1504473347974	Marionette	INFO	Listening on port 37933
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504473348384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504473348431	Marionette	DEBUG	loaded listener.js
+1504473348458	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504473350611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504473350612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504473352008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504473362849	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504473369142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504473783854	geckodriver	INFO	geckodriver 0.18.0
+1504473783862	geckodriver	INFO	Listening on 127.0.0.1:53207
+1504473784948	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504473785815	Marionette	INFO	Enabled via --marionette
+1504473788526	Marionette	INFO	Listening on port 34483
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504473788641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504473788696	Marionette	DEBUG	loaded listener.js
+1504473788723	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504473789454	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504473789455	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504473789819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504473796824	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504473922807	geckodriver	INFO	geckodriver 0.18.0
+1504473922813	geckodriver	INFO	Listening on 127.0.0.1:58943
+1504473923909	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504473924791	Marionette	INFO	Enabled via --marionette
+1504473927539	Marionette	INFO	Listening on port 44823
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504473927653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504473927705	Marionette	DEBUG	loaded listener.js
+1504473927732	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504473928573	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504473928574	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504473929133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504473944491	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504474024649	geckodriver	INFO	geckodriver 0.18.0
+1504474024653	geckodriver	INFO	Listening on 127.0.0.1:48475
+1504474025748	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474026702	Marionette	INFO	Enabled via --marionette
+1504474029363	Marionette	INFO	Listening on port 38033
+1504474029374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474029422	Marionette	DEBUG	loaded listener.js
+1504474029521	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474031499	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474031500	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474032323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474044375	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504474091496	geckodriver	INFO	geckodriver 0.18.0
+1504474091501	geckodriver	INFO	Listening on 127.0.0.1:38209
+1504474092580	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474093455	Marionette	INFO	Enabled via --marionette
+1504474096281	Marionette	INFO	Listening on port 34479
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474096402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504474096458	Marionette	DEBUG	loaded listener.js
+1504474096489	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474097398	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474097399	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474098113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474105397	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504474180616	geckodriver	INFO	geckodriver 0.18.0
+1504474180620	geckodriver	INFO	Listening on 127.0.0.1:37459
+1504474181710	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474182574	Marionette	INFO	Enabled via --marionette
+1504474185628	Marionette	INFO	Listening on port 35079
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474185745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504474185788	Marionette	DEBUG	loaded listener.js
+1504474185828	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474186819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474186819	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474187468	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474199290	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504474239234	geckodriver	INFO	geckodriver 0.18.0
+1504474239241	geckodriver	INFO	Listening on 127.0.0.1:54635
+1504474240336	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474241368	Marionette	INFO	Enabled via --marionette
+1504474244111	Marionette	INFO	Listening on port 33105
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474244226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504474244288	Marionette	DEBUG	loaded listener.js
+1504474244326	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474245473	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474245474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474246096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474258832	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504474309998	geckodriver	INFO	geckodriver 0.18.0
+1504474310001	geckodriver	INFO	Listening on 127.0.0.1:58685
+1504474311096	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474312029	Marionette	INFO	Enabled via --marionette
+1504474315107	Marionette	INFO	Listening on port 32815
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474315126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504474315171	Marionette	DEBUG	loaded listener.js
+1504474315203	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474316371	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474316372	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474317013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474331247	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+[Parent 5959] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 5959] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 5959] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 5959] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 5959] WARNING: pipe error: Broken pipe: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1504474400078	Marionette	DEBUG	loaded listener.js
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python, line 63: SyntaxError: unterminated string literal
+JavaScript error: http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python?cf_action=sync_comments&post_id=1866, line 1: SyntaxError: expected expression, got '<'
+1504474514340	geckodriver	INFO	geckodriver 0.18.0
+1504474514345	geckodriver	INFO	Listening on 127.0.0.1:57299
+1504474515435	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474516404	Marionette	INFO	Enabled via --marionette
+1504474519228	Marionette	INFO	Listening on port 40011
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474519259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504474519307	Marionette	DEBUG	loaded listener.js
+1504474519337	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474520237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474520237	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474520606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474526889	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504474761597	geckodriver	INFO	geckodriver 0.18.0
+1504474761603	geckodriver	INFO	Listening on 127.0.0.1:57479
+1504474762692	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474763609	Marionette	INFO	Enabled via --marionette
+1504474766219	Marionette	INFO	Listening on port 32817
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474766342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504474766395	Marionette	DEBUG	loaded listener.js
+1504474766426	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474768201	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474768202	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474768561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474782123	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504474884871	Marionette	DEBUG	loaded listener.js
+1504474980406	geckodriver	INFO	geckodriver 0.18.0
+1504474980410	geckodriver	INFO	Listening on 127.0.0.1:45843
+1504474981501	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504474982500	Marionette	INFO	Enabled via --marionette
+1504474985285	Marionette	INFO	Listening on port 43329
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504474985329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504474985373	Marionette	DEBUG	loaded listener.js
+1504474985405	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504474986161	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504474986162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504474986740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504474993356	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504475108626	geckodriver	INFO	geckodriver 0.18.0
+1504475108629	geckodriver	INFO	Listening on 127.0.0.1:36451
+1504475109727	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504475110793	Marionette	INFO	Enabled via --marionette
+1504475114496	Marionette	INFO	Listening on port 43567
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504475114556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504475114600	Marionette	DEBUG	loaded listener.js
+1504475114629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504475115292	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504475115293	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504475115806	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504475129194	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504475204084	geckodriver	INFO	geckodriver 0.18.0
+1504475204093	geckodriver	INFO	Listening on 127.0.0.1:50443
+1504475205181	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504475206389	Marionette	INFO	Enabled via --marionette
+1504475209333	Marionette	INFO	Listening on port 40509
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504475209450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504475209505	Marionette	DEBUG	loaded listener.js
+1504475209540	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504475210541	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504475210542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504475211115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504475223594	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504475313088	geckodriver	INFO	geckodriver 0.18.0
+1504475313094	geckodriver	INFO	Listening on 127.0.0.1:41857
+1504475314186	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504475316072	Marionette	INFO	Enabled via --marionette
+1504475319515	Marionette	INFO	Listening on port 39509
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504475319671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504475319715	Marionette	DEBUG	loaded listener.js
+1504475319757	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504475320321	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504475320321	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504475320683	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504475327506	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504475338131	geckodriver	INFO	geckodriver 0.18.0
+1504475338135	geckodriver	INFO	Listening on 127.0.0.1:47419
+1504475339230	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504475341009	Marionette	INFO	Enabled via --marionette
+1504475343804	Marionette	INFO	Listening on port 34107
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504475343938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504475343993	Marionette	DEBUG	loaded listener.js
+1504475344027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504475344837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504475344838	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504475345771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504475357239	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+1504948641022	geckodriver	INFO	geckodriver 0.18.0
+1504948641075	geckodriver	INFO	Listening on 127.0.0.1:58473
+1504948642307	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504948726264	geckodriver	INFO	geckodriver 0.18.0
+1504948726267	geckodriver	INFO	Listening on 127.0.0.1:59773
+1504948727361	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504948750328	Marionette	INFO	Enabled via --marionette
+1504948767922	Marionette	INFO	Listening on port 37163
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504948768120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504948768173	Marionette	DEBUG	loaded listener.js
+1504948768304	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504948769462	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504948769463	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504948770519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504948779762	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504948786254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504948804550	geckodriver	INFO	geckodriver 0.18.0
+1504948804555	geckodriver	INFO	Listening on 127.0.0.1:43223
+1504948805651	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504948806574	Marionette	INFO	Enabled via --marionette
+1504948809351	Marionette	INFO	Listening on port 42291
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504948809466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504948809518	Marionette	DEBUG	loaded listener.js
+1504948809547	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504948810412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504948810413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504948811251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504948824803	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504948830428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 4007] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1504948930542	geckodriver	INFO	geckodriver 0.18.0
+1504948930547	geckodriver	INFO	Listening on 127.0.0.1:57077
+1504948931629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504948932526	Marionette	INFO	Enabled via --marionette
+1504948935610	Marionette	INFO	Listening on port 37339
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504948935650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504948935697	Marionette	DEBUG	loaded listener.js
+1504948935724	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504948936576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504948936576	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504948937378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504948964155	geckodriver	INFO	geckodriver 0.18.0
+1504948964158	geckodriver	INFO	Listening on 127.0.0.1:59335
+1504948965254	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504948966134	Marionette	INFO	Enabled via --marionette
+1504948969343	Marionette	INFO	Listening on port 37039
+1504948969503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504948969557	Marionette	DEBUG	loaded listener.js
+1504948969586	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504948970323	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504948970324	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504948971168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504948987791	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504948993425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504949185647	geckodriver	INFO	geckodriver 0.18.0
+1504949185651	geckodriver	INFO	Listening on 127.0.0.1:50321
+1504949186740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504949187601	Marionette	INFO	Enabled via --marionette
+1504949190668	Marionette	INFO	Listening on port 37253
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504949190763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504949190813	Marionette	DEBUG	loaded listener.js
+1504949190842	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504949191387	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504949191387	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504949192255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504949206775	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504949215034	geckodriver	INFO	geckodriver 0.18.0
+1504949215040	geckodriver	INFO	Listening on 127.0.0.1:48451
+1504949216129	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504949217011	Marionette	INFO	Enabled via --marionette
+1504949219634	Marionette	INFO	Listening on port 40461
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504949219652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504949219695	Marionette	DEBUG	loaded listener.js
+1504949219797	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504949220641	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504949220642	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504949221471	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504949237145	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504949256237	geckodriver	INFO	geckodriver 0.18.0
+1504949256241	geckodriver	INFO	Listening on 127.0.0.1:39637
+1504949257332	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504949258183	Marionette	INFO	Enabled via --marionette
+1504949260866	Marionette	INFO	Listening on port 41191
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504949260988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504949261043	Marionette	DEBUG	loaded listener.js
+1504949261073	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504949261915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504949261915	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504949262781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1504949280488	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1504949286050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505589350975	geckodriver	INFO	geckodriver 0.18.0
+1505589351007	geckodriver	INFO	Listening on 127.0.0.1:55231
+1505589352097	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589353254	Marionette	INFO	Enabled via --marionette
+1505589356474	Marionette	INFO	Listening on port 35587
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589356755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589356806	Marionette	DEBUG	loaded listener.js
+1505589356843	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589357693	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589357694	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589358186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589363040	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505589368640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505589385724	geckodriver	INFO	geckodriver 0.18.0
+1505589385727	geckodriver	INFO	Listening on 127.0.0.1:35563
+1505589386813	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589387772	Marionette	INFO	Enabled via --marionette
+1505589390532	Marionette	INFO	Listening on port 34949
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589390652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589390713	Marionette	DEBUG	loaded listener.js
+1505589390746	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589391659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589391660	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589392026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589395012	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1505589437177	geckodriver	INFO	geckodriver 0.18.0
+1505589437180	geckodriver	INFO	Listening on 127.0.0.1:42623
+1505589438269	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589439138	Marionette	INFO	Enabled via --marionette
+1505589441903	Marionette	INFO	Listening on port 34357
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589442027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589442085	Marionette	DEBUG	loaded listener.js
+1505589442113	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589443374	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589443376	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589443661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589448109	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505589453635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505589508661	geckodriver	INFO	geckodriver 0.18.0
+1505589508664	geckodriver	INFO	Listening on 127.0.0.1:51803
+1505589509746	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589510803	Marionette	INFO	Enabled via --marionette
+1505589513736	Marionette	INFO	Listening on port 42925
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589513768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589513815	Marionette	DEBUG	loaded listener.js
+1505589513846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589514557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589514558	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589515046	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589520562	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505589542210	geckodriver	INFO	geckodriver 0.18.0
+1505589542214	geckodriver	INFO	Listening on 127.0.0.1:57481
+1505589543298	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589544248	Marionette	INFO	Enabled via --marionette
+1505589547150	Marionette	INFO	Listening on port 42177
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589547265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589547318	Marionette	DEBUG	loaded listener.js
+1505589547356	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589548436	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589548437	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589549135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589559968	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505589565418	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505589719879	geckodriver	INFO	geckodriver 0.18.0
+1505589719884	geckodriver	INFO	Listening on 127.0.0.1:55215
+1505589720967	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589721958	Marionette	INFO	Enabled via --marionette
+1505589724614	Marionette	INFO	Listening on port 33653
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589724730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589724790	Marionette	DEBUG	loaded listener.js
+1505589724820	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589726939	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589726940	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589727314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589738598	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505589744116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505589816166	geckodriver	INFO	geckodriver 0.18.0
+1505589816169	geckodriver	INFO	Listening on 127.0.0.1:41433
+1505589817263	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589818168	Marionette	INFO	Enabled via --marionette
+1505589820977	Marionette	INFO	Listening on port 42617
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589821102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589821153	Marionette	DEBUG	loaded listener.js
+1505589821197	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589822631	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589822632	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589822919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589833751	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505589839280	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505589874374	Marionette	DEBUG	loaded listener.js
+1505589941138	geckodriver	INFO	geckodriver 0.18.0
+1505589941144	geckodriver	INFO	Listening on 127.0.0.1:53477
+1505589942229	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505589943121	Marionette	INFO	Enabled via --marionette
+1505589946018	Marionette	INFO	Listening on port 39943
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505589946143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505589946202	Marionette	DEBUG	loaded listener.js
+1505589946232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505589947455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505589947456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505589947773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505589951336	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505589956894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 7733] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505590002485	geckodriver	INFO	geckodriver 0.18.0
+1505590002488	geckodriver	INFO	Listening on 127.0.0.1:36043
+1505590003581	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590004473	Marionette	INFO	Enabled via --marionette
+1505590007332	Marionette	INFO	Listening on port 41111
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590007407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505590007456	Marionette	DEBUG	loaded listener.js
+1505590007485	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590008095	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590008096	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590009290	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590013676	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505590019234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505590061535	geckodriver	INFO	geckodriver 0.18.0
+1505590061538	geckodriver	INFO	Listening on 127.0.0.1:45861
+1505590062634	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590063886	Marionette	INFO	Enabled via --marionette
+1505590066677	Marionette	INFO	Listening on port 43071
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590066801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505590066853	Marionette	DEBUG	loaded listener.js
+1505590066896	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590074925	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590074925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590075220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590084829	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505590090346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+console.error: 
+  stylesheets actor: fetch failed for https://web.whatsapp.com/style_88ded40ca666f1dce64b4f5ed1e765a6.css, using system principal instead.
+1505590150128	geckodriver	INFO	geckodriver 0.18.0
+1505590150131	geckodriver	INFO	Listening on 127.0.0.1:41257
+1505590151224	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590152083	Marionette	INFO	Enabled via --marionette
+1505590154962	Marionette	INFO	Listening on port 33695
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590155083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505590155140	Marionette	DEBUG	loaded listener.js
+1505590155170	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590155842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590155842	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590156307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590160221	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1773:11
+send/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+Line: 1773, column: 11
+1505590165726	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505590203121	Marionette	DEBUG	loaded listener.js
+1505590357106	geckodriver	INFO	geckodriver 0.18.0
+1505590357109	geckodriver	INFO	Listening on 127.0.0.1:44937
+1505590358203	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590359056	Marionette	INFO	Enabled via --marionette
+1505590361972	Marionette	INFO	Listening on port 37931
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590362094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505590362147	Marionette	DEBUG	loaded listener.js
+1505590362177	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590363025	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590363026	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590363663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590373719	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505590379301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505590417018	geckodriver	INFO	geckodriver 0.18.0
+1505590417021	geckodriver	INFO	Listening on 127.0.0.1:46615
+1505590418116	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590419127	Marionette	INFO	Enabled via --marionette
+1505590422029	Marionette	INFO	Listening on port 39149
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590422141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505590422182	Marionette	DEBUG	loaded listener.js
+1505590422214	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590422819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590422820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590423332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590432630	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505590438162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505590485997	geckodriver	INFO	geckodriver 0.18.0
+1505590486003	geckodriver	INFO	Listening on 127.0.0.1:36169
+1505590487088	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590487984	Marionette	INFO	Enabled via --marionette
+1505590490598	Marionette	INFO	Listening on port 42675
+1505590490653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590490699	Marionette	DEBUG	loaded listener.js
+1505590490797	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590491825	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590491826	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590492285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590497330	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505590503478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505590515459	geckodriver	INFO	geckodriver 0.18.0
+1505590515464	geckodriver	INFO	Listening on 127.0.0.1:40375
+1505590516555	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590517410	Marionette	INFO	Enabled via --marionette
+1505590520420	Marionette	INFO	Listening on port 35885
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590520479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505590520521	Marionette	DEBUG	loaded listener.js
+1505590520552	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590521926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590521926	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590522314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590532951	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505590538447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505590589162	Marionette	DEBUG	loaded listener.js
+1505590620797	Marionette	DEBUG	loaded listener.js
+1505590889323	geckodriver	INFO	geckodriver 0.18.0
+1505590889326	geckodriver	INFO	Listening on 127.0.0.1:44749
+1505590890416	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505590891489	Marionette	INFO	Enabled via --marionette
+1505590894271	Marionette	INFO	Listening on port 42383
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505590894386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505590894438	Marionette	DEBUG	loaded listener.js
+1505590894464	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505590895561	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505590895562	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505590896237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505590907779	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505590913311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505591028039	geckodriver	INFO	geckodriver 0.18.0
+1505591028042	geckodriver	INFO	Listening on 127.0.0.1:60871
+1505591029133	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505591029991	Marionette	INFO	Enabled via --marionette
+1505591032760	Marionette	INFO	Listening on port 46017
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505591032892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505591032949	Marionette	DEBUG	loaded listener.js
+1505591032980	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505591033780	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505591033781	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505591034253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505591044671	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505591050222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505591121112	Marionette	DEBUG	loaded listener.js
+1505591277397	geckodriver	INFO	geckodriver 0.18.0
+1505591277402	geckodriver	INFO	Listening on 127.0.0.1:59391
+1505591278495	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505591279440	Marionette	INFO	Enabled via --marionette
+1505591282189	Marionette	INFO	Listening on port 37925
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505591282303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505591282358	Marionette	DEBUG	loaded listener.js
+1505591282394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505591282924	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505591282925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505591283404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505591294958	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505591300393	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505591319552	geckodriver	INFO	geckodriver 0.18.0
+1505591319557	geckodriver	INFO	Listening on 127.0.0.1:36499
+1505591320641	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505591321515	Marionette	INFO	Enabled via --marionette
+1505591324346	Marionette	INFO	Listening on port 42595
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505591324364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505591324408	Marionette	DEBUG	loaded listener.js
+1505591324436	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505591327145	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505591327145	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505591328079	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1505591338709	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505591344269	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505591443296	geckodriver	INFO	geckodriver 0.18.0
+1505591443299	geckodriver	INFO	Listening on 127.0.0.1:33349
+1505591444382	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505591445260	Marionette	INFO	Enabled via --marionette
+1505591448156	Marionette	INFO	Listening on port 34523
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505591448206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505591448256	Marionette	DEBUG	loaded listener.js
+1505591448285	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505591448978	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505591448978	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505591449458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505591453037	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505591458575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505591476267	geckodriver	INFO	geckodriver 0.18.0
+1505591476274	geckodriver	INFO	Listening on 127.0.0.1:33827
+1505591477364	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505591479418	Marionette	INFO	Enabled via --marionette
+1505591482370	Marionette	INFO	Listening on port 33191
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505591482391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505591482440	Marionette	DEBUG	loaded listener.js
+1505591482472	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505591483156	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505591483157	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505591483609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505591496647	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505591502094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505591638121	geckodriver	INFO	geckodriver 0.18.0
+1505591638125	geckodriver	INFO	Listening on 127.0.0.1:34469
+1505591639226	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505591640483	Marionette	INFO	Enabled via --marionette
+1505591643709	Marionette	INFO	Listening on port 40137
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505591643873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505591643929	Marionette	DEBUG	loaded listener.js
+1505591643962	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505591644605	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505591644606	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505591645103	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505591655963	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505591661517	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505591709065	Marionette	DEBUG	loaded listener.js
+JavaScript error: https://www.learnpython.org/static/js/codemirror/codemirror.js, line 3262: TypeError: textarea is null
+1505591998673	geckodriver	INFO	geckodriver 0.18.0
+1505591998677	geckodriver	INFO	Listening on 127.0.0.1:59855
+1505591999778	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592000812	Marionette	INFO	Enabled via --marionette
+1505592003785	Marionette	INFO	Listening on port 32931
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592003904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592003971	Marionette	DEBUG	loaded listener.js
+1505592004009	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592004755	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592004756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592005211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592017643	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592023152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 16288] WARNING: pipe error (36): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505592155346	geckodriver	INFO	geckodriver 0.18.0
+1505592155350	geckodriver	INFO	Listening on 127.0.0.1:38223
+1505592156448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592157336	Marionette	INFO	Enabled via --marionette
+1505592160317	Marionette	INFO	Listening on port 33957
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592160367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592160413	Marionette	DEBUG	loaded listener.js
+1505592160445	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592161210	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592161211	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592161693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592166495	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592183988	geckodriver	INFO	geckodriver 0.18.0
+1505592183991	geckodriver	INFO	Listening on 127.0.0.1:44149
+1505592185087	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592186147	Marionette	INFO	Enabled via --marionette
+1505592189205	Marionette	INFO	Listening on port 36695
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592189314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592189362	Marionette	DEBUG	loaded listener.js
+1505592189395	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592190185	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592190186	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592190662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592201246	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592206783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505592254947	geckodriver	INFO	geckodriver 0.18.0
+1505592254953	geckodriver	INFO	Listening on 127.0.0.1:44691
+1505592255192	geckodriver	INFO	geckodriver 0.18.0
+1505592255195	geckodriver	INFO	Listening on 127.0.0.1:33211
+1505592255381	geckodriver	INFO	geckodriver 0.18.0
+1505592255388	geckodriver	INFO	Listening on 127.0.0.1:58075
+1505592255601	geckodriver	INFO	geckodriver 0.18.0
+1505592255605	geckodriver	INFO	Listening on 127.0.0.1:39243
+1505592255750	geckodriver	INFO	geckodriver 0.18.0
+1505592255754	geckodriver	INFO	Listening on 127.0.0.1:39589
+1505592255989	geckodriver	INFO	geckodriver 0.18.0
+1505592255993	geckodriver	INFO	Listening on 127.0.0.1:50001
+1505592256061	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592256208	geckodriver	INFO	geckodriver 0.18.0
+1505592256214	geckodriver	INFO	Listening on 127.0.0.1:54791
+1505592256283	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592256395	geckodriver	INFO	geckodriver 0.18.0
+1505592256401	geckodriver	INFO	Listening on 127.0.0.1:49617
+1505592256504	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592256702	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592256859	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592257161	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592257375	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592257537	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592260381	Marionette	INFO	Enabled via --marionette
+1505592260383	Marionette	INFO	Enabled via --marionette
+1505592260383	Marionette	INFO	Enabled via --marionette
+1505592260433	Marionette	INFO	Enabled via --marionette
+1505592260441	Marionette	INFO	Enabled via --marionette
+1505592260527	Marionette	INFO	Enabled via --marionette
+1505592260625	Marionette	INFO	Enabled via --marionette
+1505592271488	Marionette	INFO	Listening on port 39407
+1505592271511	Marionette	INFO	Listening on port 40219
+1505592271513	Marionette	INFO	Listening on port 42789
+1505592271544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592271617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592271627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592271632	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592271710	Marionette	DEBUG	loaded listener.js
+1505592271724	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592271748	Marionette	DEBUG	loaded listener.js
+1505592271775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+[Child 17977] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505592272143	Marionette	INFO	Listening on port 41259
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592272222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592272799	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592272800	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592273043	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592273044	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592273803	Marionette	DEBUG	loaded listener.js
+1505592273968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592274778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592280524	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592281395	geckodriver	INFO	geckodriver 0.18.0
+1505592281405	geckodriver	INFO	Listening on 127.0.0.1:53075
+1505592342153	geckodriver	INFO	geckodriver 0.18.0
+1505592342156	geckodriver	INFO	Listening on 127.0.0.1:56987
+1505592343256	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592344416	Marionette	INFO	Enabled via --marionette
+1505592347327	Marionette	INFO	Listening on port 37633
+1505592347452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592347505	Marionette	DEBUG	loaded listener.js
+1505592347544	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592348132	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592348133	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592348780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592353030	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592367626	geckodriver	INFO	geckodriver 0.18.0
+1505592367630	geckodriver	INFO	Listening on 127.0.0.1:36861
+1505592368730	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592369606	Marionette	INFO	Enabled via --marionette
+1505592372650	Marionette	INFO	Listening on port 33483
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592372777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592372834	Marionette	DEBUG	loaded listener.js
+1505592372871	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592373455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592373456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592373960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592381381	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592386913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505592432007	Marionette	DEBUG	loaded listener.js
+1505592645049	geckodriver	INFO	geckodriver 0.18.0
+1505592645054	geckodriver	INFO	Listening on 127.0.0.1:38761
+1505592646139	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592647445	Marionette	INFO	Enabled via --marionette
+1505592650553	Marionette	INFO	Listening on port 37317
+1505592650573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592650627	Marionette	DEBUG	loaded listener.js
+1505592650664	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592651227	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592651228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592652069	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592656084	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592661922	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505592694086	geckodriver	INFO	geckodriver 0.18.0
+1505592694094	geckodriver	INFO	Listening on 127.0.0.1:57341
+1505592695183	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592696072	Marionette	INFO	Enabled via --marionette
+1505592702093	Marionette	INFO	Listening on port 46149
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592702117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592702161	Marionette	DEBUG	loaded listener.js
+1505592702193	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592702979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592702980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592703389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592708412	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592715147	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+19701
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1505592765868	geckodriver	INFO	geckodriver 0.18.0
+1505592765872	geckodriver	INFO	Listening on 127.0.0.1:49237
+1505592766013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505592768503	Marionette	INFO	Enabled via --marionette
+1505592771531	Marionette	INFO	Listening on port 39375
+1505592771545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505592771586	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505592771743	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505592772291	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505592772292	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505592772710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505592782911	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505592793422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 19742] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-qZqDB8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1505592834208	Marionette	DEBUG	loaded listener.js
+1505592841665	Marionette	DEBUG	loaded listener.js
+1505593681481	geckodriver	INFO	geckodriver 0.18.0
+1505593681484	geckodriver	INFO	Listening on 127.0.0.1:33117
+1505593682586	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505593683540	Marionette	INFO	Enabled via --marionette
+1505593686476	Marionette	INFO	Listening on port 40081
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505593686519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505593686563	Marionette	DEBUG	loaded listener.js
+1505593686606	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505593687249	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505593687250	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505593687672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505593698630	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505593709164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505593750704	geckodriver	INFO	geckodriver 0.18.0
+1505593750710	geckodriver	INFO	Listening on 127.0.0.1:52611
+1505593751808	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1505593752727	Marionette	INFO	Enabled via --marionette
+1505593755522	Marionette	INFO	Listening on port 34375
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1505593755701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505593755752	Marionette	DEBUG	loaded listener.js
+1505593755789	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505593756378	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505593756379	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505593756836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1505593761605	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1505593772084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
